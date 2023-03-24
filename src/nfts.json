@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/nft1.png",
+    "age": 3,
+    "breed": "Beeple",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/nft2.jpeg",
+    "age": 3,
+    "breed": "Scot",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/nft3.png",
+    "age": 2,
+    "breed": "Kemp",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/nft5.jpeg",
+    "age": 2,
+    "breed": "Louis",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/nft6.jpeg",
+    "age": 2,
+    "breed": "Philip",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/nft7.jpeg",
+    "age": 3,
+    "breed": "Apeton",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/nft8.jpeg",
+    "age": 3,
+    "breed": "Ryan",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Coleman",
+    "picture": "images/nft9.jpeg",
+    "age": 3,
+    "breed": "Jack",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Nichole",
+    "picture": "images/nft11.png",
+    "age": 2,
+    "breed": "Beln",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Fran",
+    "picture": "images/nft12.png",
+    "age": 3,
+    "breed": "Punch",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Leonor",
+    "picture": "images/nft10.jpeg",
+    "age": 2,
+    "breed": "Punk",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/nft34.png",
+    "age": 3,
+    "breed": "Yen",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Stevenson",
+    "picture": "images/nft33.png",
+    "age": 3,
+    "breed": "Ken",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Kristina",
+    "picture": "images/nft37.gif",
+    "age": 4,
+    "breed": "Som",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Ethel",
+    "picture": "images/nft36.png",
+    "age": 2,
+    "breed": "Katich",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Terry",
+    "picture": "images/nft35.jpeg",
+    "age": 2,
+    "breed": "Jenny",
+    "location": "Dawn, Wisconsin"
+  }
+]
